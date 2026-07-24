@@ -1,0 +1,6 @@
+transaction_id,date,amount,description
+TXN001,2024-01-15,1500.00,Invoice 4521
+TXN002,2024-01-16,250.80,Office supplies
+TXN003,2024-01-18,8000.00,Consulting fee
+TXN005,2024-01-19,3200.00,SW licence
+TXN006,2024-01-20,900.00,Extra payment
